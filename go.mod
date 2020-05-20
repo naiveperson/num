@@ -1,1 +1,1 @@
-module githum.com/naiveperson/num
+module github.com/naiveperson/num
