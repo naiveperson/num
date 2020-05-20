@@ -1,5 +1,5 @@
 package num
 
 func Num() int {
-	return 3
+	return 4
 }
